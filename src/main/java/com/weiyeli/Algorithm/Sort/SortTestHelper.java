@@ -1,4 +1,4 @@
-package Algorithm.Sort;
+package com.weiyeli.Algorithm.Sort;
 
 import java.lang.reflect.Method;
 

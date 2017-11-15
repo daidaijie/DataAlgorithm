@@ -1,4 +1,4 @@
-package DataStructure.linear.Single;
+package com.weiyeli.DataStructure.linear.Single;
 
 /**
  * 单链表结点
