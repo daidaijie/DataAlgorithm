@@ -7,7 +7,7 @@ public class SortTest {
         // 测试排序算法辅助函数
         int N = 20000;
         Integer[] arr = SortTestHelper.generateRandomArray(N, 0, 100000);
-        SelectionSort.sort( arr );
-        SortTestHelper.printArray(arr);
+//        SortTestHelper.testSort("com.algo.Algorithm.Sort.SelectionSort", arr);
+//        System.out.println(System.getPr);
     }
 }
