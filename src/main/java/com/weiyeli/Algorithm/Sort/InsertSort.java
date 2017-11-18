@@ -8,8 +8,9 @@ import java.util.Scanner;
 public class InsertSort {
     static int a[] = new int[11];
 
-    /*
-    直接插入排序
+    /**
+     * 直接插入排序
+     * @param a
      */
     public static void insertSort(int a[]) {
         for (int i = 2; i <= a.length; i++) {
