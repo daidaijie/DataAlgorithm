@@ -67,13 +67,13 @@ public class MergeSort {
         // 可以在1秒之内轻松处理100万数量级的数据
         // 注意：不要轻易尝试使用SelectionSort, InsertionSort或者BubbleSort处理100万级的数据
         // 否则，你就见识了O(n^2)的算法和O(nlogn)算法的本质差异：）
-        int N = 1000000;
+        int N = 1000;
 //        Integer[] arr = SortTestHelper.generateRandomArray(N, 0, 100000);
 //        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.MergeSort", arr);
         Integer[] arr1 = SortTestHelper.generateNearlyOrderedArray(N, 10);
+        SortTestHelper.printArray(arr1);
         SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.MergeSort", arr1);
-        Integer[] arr3 = SortTestHelper.generateNearlyOrderedArray(N, 10);
-        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.InsertionSort", arr3);
+        SortTestHelper.printArray(arr1);
     }
 
 
