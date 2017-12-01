@@ -1,6 +1,6 @@
-package com.weiyeli.Algorithm.Sort;
+package com.weiyeli.Algorithm.Sort.HeapSort;
 
-public class HeapSort {
+public class HeapSort1 {
 
     /*
      * (最大)堆的向下调整算法

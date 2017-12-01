@@ -1,4 +1,4 @@
-package com.weiyeli.Algorithm.Sort;
+package com.weiyeli.Algorithm.Sort.Insert;
 
 import java.util.Scanner;
 

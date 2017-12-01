@@ -1,4 +1,4 @@
-package com.weiyeli.Algorithm.Sort;
+package com.weiyeli.Algorithm.Sort.Insert;
 
 /**
  * 慕课网BoBo老师版本

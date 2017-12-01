@@ -1,4 +1,7 @@
-package com.weiyeli.Algorithm.Sort;
+package com.weiyeli.Algorithm.Sort.Merge;
+
+import com.weiyeli.Algorithm.Sort.Insert.InsertionSort;
+import com.weiyeli.Algorithm.Sort.test.SortTestHelper;
 
 import java.util.Arrays;
 
