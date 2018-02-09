@@ -1,6 +1,7 @@
 package com.weiyeli.DataStructure.tree.Binary_Search_tree.Binary_Search_Tree_Basic;
 
 import java.util.LinkedList;
+import java.util.Stack;
 
 //二分搜索树
 //由于key需要能够进行比较，所以需要extends Comparable<Key>
@@ -183,6 +184,24 @@ public class BST<Key extends Comparable<Key>, Value> {
             System.out.println(node.key);
             preOrder(node.left);
             preOrder(node.right);
+        }
+    }
+
+    //对以node为根的二叉搜索树进行中序遍历，非递归算法
+    private void inOrderNotRecursive(Node node) {
+        Stack<Node> stack = new Stack<>();
+        while (node != null || !stack.isEmpty()) {
+            while (node != null) {
+                stack.push(node);
+                node = node.left;
+            }
+            if (!stack.isEmpty()) {
+                // 根结点出栈
+                node = stack.pop();
+                // 访问根结点
+                System.out.println(node.value);
+                node = node.right;
+            }
         }
     }
 
