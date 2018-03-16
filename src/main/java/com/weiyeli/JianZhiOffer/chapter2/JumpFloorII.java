@@ -1,4 +1,4 @@
-package com.weiyeli.JianZhiOffer;
+package com.weiyeli.JianZhiOffer.chapter2;
 
 /**
  * 变态跳台阶

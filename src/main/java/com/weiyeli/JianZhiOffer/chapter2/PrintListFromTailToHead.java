@@ -1,4 +1,4 @@
-package com.weiyeli.JianZhiOffer;
+package com.weiyeli.JianZhiOffer.chapter2;
 
 import java.util.ArrayList;
 import java.util.Stack;

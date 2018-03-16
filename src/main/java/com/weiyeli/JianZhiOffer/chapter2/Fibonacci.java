@@ -1,4 +1,4 @@
-package com.weiyeli.JianZhiOffer;
+package com.weiyeli.JianZhiOffer.chapter2;
 
 /**
  * 斐波那契数列

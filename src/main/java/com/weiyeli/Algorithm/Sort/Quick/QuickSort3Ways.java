@@ -19,6 +19,7 @@ public class QuickSort3Ways {
         }
 
         // 随机在arr[l...r]的范围内，选择一个数值作为标定点pivot
+        // (int)2.99 = 2
         swap(arr, l, (int) (Math.random() * (r - l + 1)) + l);
 
         Comparable v = arr[l];
