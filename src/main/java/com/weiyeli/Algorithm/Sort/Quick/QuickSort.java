@@ -22,6 +22,7 @@ public class QuickSort {
 
         Comparable v = arr[l];
 
+        // 其中j就是分界点，用来划分两个区间
         // arr[l+1..j]<v; arr[j+1..i]>v
         int j = l;
         for (int i = l + 1; i <= r; i++) {

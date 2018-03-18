@@ -36,8 +36,7 @@ public class QuickSort2Ways {
 
             // 对于上面的两个边界的设定, 有的同学在课程的问答区有很好的回答:)
             // 大家可以参考: http://coding.imooc.com/learn/questiondetail/4920.html
-
-            if (i > j)
+            if (i >= j)
                 break;
 
             swap(arr, i, j);
@@ -78,12 +77,16 @@ public class QuickSort2Ways {
     }
 
     public static void main(String[] args) {
-        int N = 100000;
-        Integer[] arr1 = SortTestHelper.generateNearlyOrderedArray(N, 100);
-        Integer[] arr2 = SortTestHelper.generateNearlyOrderedArray(N, 100);
-        Integer[] arr3 = SortTestHelper.generateRandomArray(N, 0 , 10);
-        Integer[] arr4 = SortTestHelper.generateRandomArray(N, 0 , 10);
-        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.MergeSort", arr4);
-        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.QuickSort2Ways", arr3);
+//        int N = 100000;
+//        Integer[] arr1 = SortTestHelper.generateNearlyOrderedArray(N, 100);
+//        Integer[] arr2 = SortTestHelper.generateNearlyOrderedArray(N, 100);
+//        Integer[] arr3 = SortTestHelper.generateRandomArray(N, 0 , 10);
+//        Integer[] arr4 = SortTestHelper.generateRandomArray(N, 0 , 10);
+//        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.MergeSort", arr4);
+//        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.QuickSort2Ways", arr3);
+        int N = 1000;
+        Integer[] arr = SortTestHelper.generateRandomArray(N, 0, 1000);
+        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.Quick.QuickSort2Ways", arr);
+        SortTestHelper.printArray(arr);
     }
 }

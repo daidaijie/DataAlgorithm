@@ -33,19 +33,17 @@ public class QuickSort3Ways {
                 swap(arr, i, lt + 1);
                 i++;
                 lt++;
-            }
-            else if (arr[i].compareTo(v) > 0) {
-                swap(arr, i, gt-1);
+            } else if (arr[i].compareTo(v) > 0) {
+                swap(arr, i, gt - 1);
                 gt--;
-            }
-            else {
-                i ++;
+            } else {
+                i++;
             }
         }
 
         swap(arr, l, lt);
 
-        sort(arr, l, lt-1);
+        sort(arr, l, lt - 1);
         sort(arr, gt, r);
     }
 
@@ -63,8 +61,8 @@ public class QuickSort3Ways {
 
     public static void main(String[] args) {
         int N = 100000;
-        Integer[] arr1 = SortTestHelper.generateRandomArray(N, 0,100);
-        Integer[] arr2 = SortTestHelper.generateRandomArray(N, 0,100);
+        Integer[] arr1 = SortTestHelper.generateRandomArray(N, 0, 100);
+        Integer[] arr2 = SortTestHelper.generateRandomArray(N, 0, 100);
         SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.Quick.QuickSort2Ways", arr1);
         SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.Quick.QuickSort3Ways", arr2);
     }
