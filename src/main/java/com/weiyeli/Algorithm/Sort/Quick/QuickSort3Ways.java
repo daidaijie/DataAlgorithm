@@ -12,11 +12,11 @@ public class QuickSort3Ways {
     // 递归使用快速排序，对arr[l..r]的范围进行排序
     private static void sort(Comparable[] arr, int l, int r) {
 
-        // 对于小规模数组，使用插入排序
-        if (r - l <= 15) {
-            InsertionSort.sort(arr, l, r);
-            return;
-        }
+//        // 对于小规模数组，使用插入排序
+//        if (r - l <= 15) {
+//            InsertionSort.sort(arr, l, r);
+//            return;
+//        }
 
         // 随机在arr[l...r]的范围内，选择一个数值作为标定点pivot
         // (int)2.99 = 2
@@ -60,10 +60,15 @@ public class QuickSort3Ways {
 
 
     public static void main(String[] args) {
-        int N = 100000;
-        Integer[] arr1 = SortTestHelper.generateRandomArray(N, 0, 100);
-        Integer[] arr2 = SortTestHelper.generateRandomArray(N, 0, 100);
-        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.Quick.QuickSort2Ways", arr1);
-        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.Quick.QuickSort3Ways", arr2);
+//        int N = 100000;
+//        Integer[] arr1 = SortTestHelper.generateRandomArray(N, 0, 100);
+//        Integer[] arr2 = SortTestHelper.generateRandomArray(N, 0, 100);
+//        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.Quick.QuickSort2Ways", arr1);
+//        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.Quick.QuickSort3Ways", arr2);
+        Integer[] a = {5, 4, 3, 2, 1, 0};
+        sort(a);
+        for (int i = 0; i < a.length; i++) {
+            System.out.println(a[i] + " ");
+        }
     }
 }

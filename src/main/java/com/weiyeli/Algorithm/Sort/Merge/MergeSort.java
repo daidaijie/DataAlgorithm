@@ -75,8 +75,7 @@ public class MergeSort {
 //        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.MergeSort", arr);
         Integer[] arr1 = SortTestHelper.generateNearlyOrderedArray(N, 10);
         SortTestHelper.printArray(arr1);
-        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.MergeSort", arr1);
-        SortTestHelper.printArray(arr1);
+        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.Merge.MergeSort", arr1);
     }
 
 

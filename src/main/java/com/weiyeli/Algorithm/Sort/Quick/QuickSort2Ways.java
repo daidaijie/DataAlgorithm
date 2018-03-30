@@ -53,11 +53,11 @@ public class QuickSort2Ways {
     // 递归使用快速排序,对arr[l...r]的范围进行排序
     private static void sort(Comparable[] arr, int l, int r) {
 
-        //对于小规模数组, 使用插入排序
-        if (r - l <= 15) {
-            InsertionSort.sort(arr, l, r);
-            return;
-        }
+//        //对于小规模数组, 使用插入排序
+//        if (r - l <= 15) {
+//            InsertionSort.sort(arr, l, r);
+//            return;
+//        }
 
         int p = partition(arr, l, r);
         sort(arr, l, p - 1);
@@ -84,9 +84,14 @@ public class QuickSort2Ways {
 //        Integer[] arr4 = SortTestHelper.generateRandomArray(N, 0 , 10);
 //        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.MergeSort", arr4);
 //        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.QuickSort2Ways", arr3);
-        int N = 1000;
-        Integer[] arr = SortTestHelper.generateRandomArray(N, 0, 1000);
-        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.Quick.QuickSort2Ways", arr);
-        SortTestHelper.printArray(arr);
+//        int N = 1000;
+//        Integer[] arr = SortTestHelper.generateRandomArray(N, 0, 1000);
+//        SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.Quick.QuickSort2Ways", arr);
+//        SortTestHelper.printArray(arr);
+        Integer[] a = {5, 4, 3, 2, 1, 0};
+        sort(a);
+        for (int i = 0; i < a.length; i++) {
+            System.out.println(a[i] + " ");
+        }
     }
 }
