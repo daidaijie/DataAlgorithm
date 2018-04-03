@@ -124,6 +124,7 @@ public class Main2 {
             else dp[i] = 0;
         }
 
+        // 由于每一层的循环只需要用到本层的数据，所以可以用循环覆盖的方法，只使用一维数组来节省空间
         for (int i = 1; i < arr.length; i++) {
             for (int j = 1; j <= aim; j++) {
                 if (j >= arr[i])
