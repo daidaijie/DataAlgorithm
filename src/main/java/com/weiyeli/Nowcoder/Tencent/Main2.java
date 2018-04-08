@@ -58,9 +58,9 @@ public class Main2 {
             }
         }
 
-        if (isOk(k,lengthA,lengthB)) {
-            res =
-        }
+//        if (isOk(k,lengthA,lengthB)) {
+//            res =
+//        }
 
 
         System.out.println(res % 1000000007);
