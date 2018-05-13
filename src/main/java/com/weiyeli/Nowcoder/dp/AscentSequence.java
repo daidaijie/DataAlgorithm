@@ -46,7 +46,9 @@ public class AscentSequence {
      * @return
      */
     public static int findLongest2(int[] a, int n) {
-        //我们的B数组，是存储对应长度LIS的最小末尾
+        //我们的b数组，是存储对应长度LIS的最小末尾(说白了就是对状态的一种优化，只保留了尾部最小的状态)
+        //因为尾部最小的子序列找到更长的LIS的可能性更大
+        //https://blog.csdn.net/u012198382/article/details/25001663
         int[] b = new int[n];
         b[0] = a[0];
         int end = 0;
