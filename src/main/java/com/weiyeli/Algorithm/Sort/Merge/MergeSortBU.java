@@ -1,13 +1,15 @@
 package com.weiyeli.Algorithm.Sort.Merge;
 
-import com.weiyeli.Algorithm.Sort.Insert.InsertionSort;
+import com.weiyeli.Algorithm.Sort.InsertioSort.InsertionSort;
 import com.weiyeli.Algorithm.Sort.test.SortTestHelper;
 
 import java.util.Arrays;
 
 /**
  * 自底向上的归并排序
- * BoBo老师版本
+ * 平均时间复杂度：O(nlogn)
+ * 空间复杂度：O(n)
+ * 是否稳定：稳定
  */
 public class MergeSortBU {
     // 我们的算法类不允许产生任何实例

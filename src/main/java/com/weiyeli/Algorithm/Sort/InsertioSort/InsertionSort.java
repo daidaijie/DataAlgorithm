@@ -1,4 +1,4 @@
-package com.weiyeli.Algorithm.Sort.Insert;
+package com.weiyeli.Algorithm.Sort.InsertioSort;
 
 public class InsertionSort {
 

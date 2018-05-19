@@ -1,6 +1,6 @@
 package com.weiyeli.Algorithm.Sort.Merge;
 
-import com.weiyeli.Algorithm.Sort.Insert.InsertionSort;
+import com.weiyeli.Algorithm.Sort.InsertioSort.InsertionSort;
 
 import java.util.Arrays;
 

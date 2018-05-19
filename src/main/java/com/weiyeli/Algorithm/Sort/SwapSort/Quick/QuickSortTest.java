@@ -1,4 +1,4 @@
-package com.weiyeli.Algorithm.Sort.Quick;
+package com.weiyeli.Algorithm.Sort.SwapSort.Quick;
 
 // 每天默写一遍快速排序算法
 public class QuickSortTest {

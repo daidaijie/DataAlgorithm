@@ -1,6 +1,6 @@
-package com.weiyeli.Algorithm.Sort.Quick;
+package com.weiyeli.Algorithm.Sort.SwapSort.Quick;
 
-import com.weiyeli.Algorithm.Sort.Insert.InsertionSort;
+import com.weiyeli.Algorithm.Sort.InsertioSort.InsertionSort;
 import com.weiyeli.Algorithm.Sort.test.SortTestHelper;
 
 /**

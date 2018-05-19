@@ -1,6 +1,11 @@
 package com.weiyeli.Algorithm.Sort.Select;
 
-
+/**
+ * 简单选择排序
+ * 平均时间复杂度：O(n^2)
+ * 空间复杂度：O(1)
+ * 是否稳定：不稳定
+ */
 public class SelectionSort {
 
     //不产生任何实例

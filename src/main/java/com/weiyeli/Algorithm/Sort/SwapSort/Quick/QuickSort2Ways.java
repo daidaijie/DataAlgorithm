@@ -1,7 +1,6 @@
-package com.weiyeli.Algorithm.Sort.Quick;
+package com.weiyeli.Algorithm.Sort.SwapSort.Quick;
 
-import com.weiyeli.Algorithm.Sort.Insert.InsertionSort;
-import com.weiyeli.Algorithm.Sort.test.SortTestHelper;
+import com.weiyeli.Algorithm.Sort.InsertioSort.InsertionSort;
 
 /**
  * 双路快排
@@ -53,11 +52,11 @@ public class QuickSort2Ways {
     // 递归使用快速排序,对arr[l...r]的范围进行排序
     private static void sort(Comparable[] arr, int l, int r) {
 
-//        //对于小规模数组, 使用插入排序
-//        if (r - l <= 15) {
-//            InsertionSort.sort(arr, l, r);
-//            return;
-//        }
+        //对于小规模数组, 使用插入排序
+        if (r - l <= 15) {
+            InsertionSort.sort(arr, l, r);
+            return;
+        }
 
         int p = partition(arr, l, r);
         sort(arr, l, p - 1);

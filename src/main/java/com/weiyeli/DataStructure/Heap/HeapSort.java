@@ -4,6 +4,9 @@ import com.weiyeli.Algorithm.Sort.test.SortTestHelper;
 
 /**
  * 原地堆排序
+ * 平均时间复杂度：O(nlogn)
+ * 空间复杂度：O(1)
+ * 是否稳定：不稳定
  */
 public class HeapSort {
     private HeapSort() {
