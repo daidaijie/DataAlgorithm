@@ -16,10 +16,12 @@ public class MergeSortBU {
     private MergeSortBU() {
     }
 
+    private static Comparable[] aux = null;
+
     // 将arr[l...mid]和arr[mid+1...r]两部分进行归并
     private static void merge(Comparable[] arr, int l, int mid, int r) {
 
-        Comparable[] aux = Arrays.copyOfRange(arr, l, r + 1);
+        aux = Arrays.copyOfRange(arr, l, r + 1);
 
         // 初始化，i指向左半部分的起始索引位置l；j指向右半部分起始索引位置mid+1
         int i = l, j = mid + 1;
