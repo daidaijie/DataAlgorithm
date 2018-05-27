@@ -6,7 +6,7 @@ package com.weiyeli.Leetcode.DP;
  * 最大字数组
  * https://blog.csdn.net/linhuanmars/article/details/21314059
  */
-public class pro53 {
+public class LeetCode53 {
     public int maxSubArray(int[] nums) {
         if (nums == null || nums.length == 0)
             return 0;

@@ -4,7 +4,7 @@ package com.weiyeli.Leetcode;
  * 88. Merge Sorted Array
  * 题意：将两个排好序的数组合并成一个有序数组
  */
-public class Question_88 {
+public class LeetCode88 {
 
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
 
