@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="353a733b-d152-455c-92d9-48a391fb0a73" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode198.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/weiyeli/Leetcode/DP/LeetCode91.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/weiyeli/Leetcode/DP/LeetCode91.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -85,11 +83,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode63.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode63.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode63.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            <state relative-caret-position="357">
+              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode198.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode198.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="7" selection-start-line="7" selection-end-line="32" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -108,15 +115,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95886">
               <caret line="4985" column="5" selection-start-line="4985" selection-start-column="5" selection-end-line="4985" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode64.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode64.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -148,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/DataStructure/LinkedList/List_ring.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/Meituan/Main2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/dp/LCS.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/dp/LongestSubstring.java" />
@@ -199,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode91.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode62.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode63.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode198.java" />
       </list>
     </option>
   </component>
@@ -672,7 +670,7 @@
       <workItem from="1527751695168" duration="1796000" />
       <workItem from="1527841845933" duration="311000" />
       <workItem from="1527842203684" duration="604000" />
-      <workItem from="1527934340553" duration="2582000" />
+      <workItem from="1527934340553" duration="5937000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1510728058805</created>
@@ -720,7 +718,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="404367000" />
+    <option name="totallyTimeSpent" value="407722000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -733,6 +731,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4936034" weight="0.3297062" />
@@ -742,10 +741,10 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.48720682" weight="0.3297062" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16030534" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16030534" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4914712" weight="0.3297062" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15138593" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15138593" />
       <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -872,13 +871,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/WeBank/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/WeBank/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1231,8 +1223,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode63.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        <state relative-caret-position="357">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode198.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="7" selection-start-line="7" selection-end-line="32" selection-end-column="5" />
         </state>
       </provider>
     </entry>
