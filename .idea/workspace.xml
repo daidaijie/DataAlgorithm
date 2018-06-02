@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="353a733b-d152-455c-92d9-48a391fb0a73" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode279.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode343.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode63.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/weiyeli/Algorithm/Sort/Merge/MergeSortBU.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/weiyeli/Algorithm/Sort/Merge/MergeSortBU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/weiyeli/Algorithm/Sort/Select/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/weiyeli/Algorithm/Sort/Select/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/weiyeli/DataStructure/Heap/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/weiyeli/DataStructure/Heap/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/weiyeli/Leetcode/Question_88.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/weiyeli/Leetcode/DP/LeetCode91.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/weiyeli/Leetcode/DP/LeetCode91.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,15 +26,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
               <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode88.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/LeetCode88.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -78,11 +63,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode91.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode91.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode91.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+            <state relative-caret-position="126">
+              <caret line="6" selection-start-line="6" selection-end-line="45" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode62.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode62.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="24" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="20" selection-end-column="24" />
+              <folding>
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode63.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode63.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -114,15 +121,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode53.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode53.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="27" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -150,8 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Algorithm/Sort/Merge/MergeSortTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/DataStructure/tree/Binary_Search_tree/Binary_search/BinarySearchTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/DataStructure/LinkedList/List_ring.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/Meituan/Main2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/dp/LCS.java" />
@@ -201,6 +197,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode343.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode279.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode91.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode62.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode63.java" />
       </list>
     </option>
   </component>
@@ -223,10 +221,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="454" />
-    <option name="y" value="-14" />
-    <option name="width" value="1450" />
-    <option name="height" value="1091" />
+    <option name="x" value="818" />
+    <option name="y" value="34" />
+    <option name="width" value="1936" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -237,8 +235,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -371,20 +369,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LeetCode91">
+  <component name="RunManager" selected="Application.LeetCode62">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.weiyeli.Algorithm.Sort.SwapSort.BubbleSort.BubbleSort" />
-      <module name="DataAlgorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.weiyeli.Algorithm.Sort.SwapSort.Bubble.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="LeetCode279" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.weiyeli.Leetcode.DP.LeetCode279" />
@@ -399,6 +386,17 @@
     </configuration>
     <configuration name="LeetCode343" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.weiyeli.Leetcode.DP.LeetCode343" />
+      <module name="DataAlgorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weiyeli.Leetcode.DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LeetCode62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weiyeli.Leetcode.DP.LeetCode62" />
       <module name="DataAlgorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -485,19 +483,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.BubbleSort" />
       <item itemvalue="Application.QuickSort3Ways" />
       <item itemvalue="Application.LeetCode343" />
       <item itemvalue="Application.LeetCode279" />
       <item itemvalue="Application.LeetCode91" />
+      <item itemvalue="Application.LeetCode62" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode62" />
         <item itemvalue="Application.LeetCode91" />
         <item itemvalue="Application.LeetCode279" />
         <item itemvalue="Application.LeetCode343" />
         <item itemvalue="Application.QuickSort3Ways" />
-        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -669,7 +667,12 @@
       <workItem from="1527589166519" duration="5040000" />
       <workItem from="1527648447296" duration="2878000" />
       <workItem from="1527660049147" duration="4216000" />
-      <workItem from="1527665369033" duration="3514000" />
+      <workItem from="1527665369033" duration="4450000" />
+      <workItem from="1527727520840" duration="1203000" />
+      <workItem from="1527751695168" duration="1796000" />
+      <workItem from="1527841845933" duration="311000" />
+      <workItem from="1527842203684" duration="604000" />
+      <workItem from="1527934340553" duration="2582000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1510728058805</created>
@@ -717,7 +720,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="396935000" />
+    <option name="totallyTimeSpent" value="404367000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -730,7 +733,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4936034" weight="0.3297062" />
@@ -740,10 +742,10 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.48720682" weight="0.3297062" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293348" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16030534" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4914712" weight="0.3297062" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15991472" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15138593" />
       <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -752,30 +754,30 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42857143" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" order="8" visible="true" weight="0.14673913" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.25845146" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Application Servers" order="8" visible="true" weight="0.14673913" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" order="8" visible="true" weight="0.14673913" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31338412" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17910448" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4936034" weight="0.3297062" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32861805" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.48720682" weight="0.3297062" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Spring" order="13" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.5581152" />
       <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
@@ -783,10 +785,10 @@
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4914712" weight="0.3297062" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34276387" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.48720682" weight="0.3297062" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50852877" side_tool="true" weight="0.3297062" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Application Servers" order="8" visible="true" weight="0.14673913" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32861805" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
     </layout-to-restore>
@@ -870,20 +872,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/HDU/Main7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/HDU/Main8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/WeBank/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -1225,8 +1213,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode91.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="34" column="53" selection-start-line="34" selection-start-column="53" selection-end-line="34" selection-end-column="53" />
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode62.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode63.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
         </state>
       </provider>
     </entry>
