@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="353a733b-d152-455c-92d9-48a391fb0a73" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode213.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode198.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode198.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,15 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LeetCode70.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode70.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" selection-start-line="8" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="LeetCode120.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode120.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,11 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode62.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="20" column="24" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="20" selection-end-column="24" />
-              <folding>
-                <element signature="e#573#574#0" expanded="true" />
-                <element signature="e#625#626#0" expanded="true" />
-              </folding>
+              <caret line="20" column="24" selection-start-line="7" selection-start-column="8" selection-end-line="20" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -87,16 +75,25 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode63.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode198.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode198.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode198.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="7" selection-start-line="7" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="588">
+              <caret line="28" column="9" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="28" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode213.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode213.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -146,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/Meituan/Main2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/dp/LCS.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/dp/LongestSubstring.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/dp/poj3624.java" />
@@ -197,6 +193,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode62.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode63.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode198.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode213.java" />
       </list>
     </option>
   </component>
@@ -233,8 +230,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -670,7 +667,9 @@
       <workItem from="1527751695168" duration="1796000" />
       <workItem from="1527841845933" duration="311000" />
       <workItem from="1527842203684" duration="604000" />
-      <workItem from="1527934340553" duration="5937000" />
+      <workItem from="1527934340553" duration="6548000" />
+      <workItem from="1527994247437" duration="1096000" />
+      <workItem from="1528033464562" duration="2106000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1510728058805</created>
@@ -718,7 +717,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="407722000" />
+    <option name="totallyTimeSpent" value="411535000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -730,21 +729,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4936034" weight="0.3297062" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32824427" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50852877" side_tool="true" weight="0.3297062" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.48720682" weight="0.3297062" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16030534" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16030534" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4914712" weight="0.3297062" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15138593" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17110874" />
       <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -755,28 +753,29 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.25845146" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" order="8" visible="true" weight="0.14673913" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32824427" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31338412" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.48720682" weight="0.3297062" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17910448" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4936034" weight="0.3297062" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.48720682" weight="0.3297062" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31338412" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Spring" order="13" />
       <window_info id="UI Designer" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.5581152" />
       <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
@@ -871,13 +870,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/WeBank/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/Tencent/Main4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
@@ -1213,25 +1205,28 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode62.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="20" column="24" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="20" selection-end-column="24" />
-          <folding>
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-          </folding>
+          <caret line="20" column="24" selection-start-line="7" selection-start-column="8" selection-end-line="20" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode63.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode198.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="7" selection-start-line="7" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="588">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode213.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
         </state>
       </provider>
     </entry>

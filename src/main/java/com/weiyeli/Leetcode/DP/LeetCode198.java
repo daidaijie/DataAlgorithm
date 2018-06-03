@@ -5,6 +5,8 @@ package com.weiyeli.Leetcode.DP;
  * 这个题跟01背包的区别就是没有重量的限制，纯粹求最大值就可以了
  */
 public class LeetCode198 {
+
+
     public int rob(int[] nums) {
         if (nums == null || nums.length <= 0)
             return 0;
