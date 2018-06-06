@@ -7,9 +7,11 @@ public class LeetCode392 {
 
     //我天朝大佬的解法
     public boolean isSubsequence2(String s, String t) {
-        for(int i=0, pos=0; i<s.length(); i++, pos++){
-            pos = t.indexOf(s.charAt(i), pos);//使用java的类函数，java类函数肯定在jvm上会有优化所以比手写代码更快。
-            if(pos == -1) return false;
+        for (int i = 0, pos = 0; i < s.length(); i++, pos++) {
+            //使用java的类函数，java类函数肯定在jvm上会有优化所以比手写代码更快
+            //首先toCharArray就要性能开销
+            pos = t.indexOf(s.charAt(i), pos);
+            if (pos == -1) return false;
         }
         return true;
     }
@@ -27,7 +29,7 @@ public class LeetCode392 {
         if (t.length() == 0 && s.length() != 0)
             return false;
 
-            char[] a = s.toCharArray();
+        char[] a = s.toCharArray();
         char[] b = t.toCharArray();
         int j = 0;
         for (int i = 0; i < b.length; i++) {
@@ -41,8 +43,7 @@ public class LeetCode392 {
     }
 
     public static void main(String[] args) {
-        String a = "";
-        String b = "acedaa";
-        System.out.println(isSubsequence(a, b));
+        String a = "abcdef";
+        System.out.println(a.indexOf("f"));
     }
 }
