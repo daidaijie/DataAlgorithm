@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="353a733b-d152-455c-92d9-48a391fb0a73" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter5/GetUglyNumber_Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter5/GetUglyNumber_Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter5/NumberOf1Between1AndN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter5/NumberOf1Between1AndN.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -37,14 +37,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumberOf1Between1AndN.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NumberOf1Between1AndN.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter5/NumberOf1Between1AndN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+            <state relative-caret-position="189">
+              <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
               <folding>
                 <element signature="e#950#951#0" expanded="true" />
                 <element signature="e#986#987#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetUglyNumber_Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter5/GetUglyNumber_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="75" column="5" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="75" selection-end-column="5" />
+              <folding>
+                <element signature="e#1741#1742#0" expanded="true" />
+                <element signature="e#1805#1806#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/HDU/Main2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/HDU/Main4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/HDU/Main6.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/HDU/Main5.java" />
@@ -177,6 +189,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter6/IsBalanced.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/June/proA.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter5/NumberOf1Between1AndN.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter5/GetUglyNumber_Solution.java" />
       </list>
     </option>
   </component>
@@ -198,7 +211,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="818" />
     <option name="y" value="34" />
     <option name="width" value="1936" />
@@ -346,9 +359,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberOf1Between1AndN">
+  <component name="RunManager" selected="Application.GetUglyNumber_Solution">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="GetUglyNumber_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weiyeli.JianZhiOffer.chapter5.GetUglyNumber_Solution" />
+      <module name="DataAlgorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weiyeli.JianZhiOffer.chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="LeetCode300" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.weiyeli.Leetcode.DP.LeetCode300" />
@@ -363,17 +387,6 @@
     </configuration>
     <configuration name="LeetCode392" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.weiyeli.Leetcode.greedy.LeetCode392" />
-      <module name="DataAlgorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.weiyeli.Leetcode.greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="LeetCode455" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.weiyeli.Leetcode.greedy.LeetCode455" />
       <module name="DataAlgorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -460,19 +473,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.LeetCode455" />
       <item itemvalue="Application.LeetCode392" />
       <item itemvalue="Application.LeetCode300" />
       <item itemvalue="Application.proA" />
       <item itemvalue="Application.NumberOf1Between1AndN" />
+      <item itemvalue="Application.GetUglyNumber_Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetUglyNumber_Solution" />
         <item itemvalue="Application.NumberOf1Between1AndN" />
         <item itemvalue="Application.proA" />
         <item itemvalue="Application.LeetCode300" />
         <item itemvalue="Application.LeetCode392" />
-        <item itemvalue="Application.LeetCode455" />
       </list>
     </recent_temporary>
   </component>
@@ -662,7 +675,7 @@
       <workItem from="1528636770644" duration="5367000" />
       <workItem from="1528976236761" duration="325000" />
       <workItem from="1529123018147" duration="975000" />
-      <workItem from="1529297704210" duration="1904000" />
+      <workItem from="1529297704210" duration="6494000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1510728058805</created>
@@ -710,7 +723,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="439153000" />
+    <option name="totallyTimeSpent" value="443743000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -722,7 +735,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -736,13 +749,13 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.28898582" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4914712" weight="0.3297062" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21268657" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19296375" />
       <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.25736097" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.31733915" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" order="8" visible="true" weight="0.14673913" />
@@ -848,13 +861,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter5/NumberOf1Between1AndN.java</url>
-          <line>40</line>
+          <line>41</line>
           <properties />
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter5/NumberOf1Between1AndN.java</url>
-          <line>9</line>
+          <line>10</line>
           <properties />
           <option name="timeStamp" value="95" />
         </line-breakpoint>
@@ -867,7 +880,7 @@
           <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="96" />
+      <option name="time" value="99" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -875,13 +888,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/DataStructure/tree/Binary_Search_tree/Binary_search/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Algorithm/Sort/Insert/InsertSort.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/Alibaba/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1228,11 +1234,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter5/NumberOf1Between1AndN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+        <state relative-caret-position="189">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
           <folding>
             <element signature="e#950#951#0" expanded="true" />
             <element signature="e#986#987#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter5/GetUglyNumber_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="75" column="5" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="75" selection-end-column="5" />
+          <folding>
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1805#1806#0" expanded="true" />
           </folding>
         </state>
       </provider>

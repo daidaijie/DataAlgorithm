@@ -24,10 +24,10 @@ public class NumberOf1Between1AndN {
             //如果为0,出现1的次数由高位决定,等于高位数字 * 当前位数
             if (current == 0)
                 count += before * i;
-            //如果为1，出现1的次数由高位和低位决定,高位*当前位+低位+1
-            else if(current == 1)
+                //如果为1，出现1的次数由高位和低位决定,高位*当前位+低位+1
+            else if (current == 1)
                 count += before * i + after + 1;
-            //如果大于1,出现1的次数由高位决定 -- (高位数字+1) * 当前位数
+                //如果大于1,出现1的次数由高位决定 -- (高位数字+1) * 当前位数
             else {
                 count += (before + 1) * i;
             }
