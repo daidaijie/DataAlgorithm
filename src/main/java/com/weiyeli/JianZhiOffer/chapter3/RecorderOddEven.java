@@ -10,13 +10,6 @@ public class RecorderOddEven {
     public static void reOrderArray(int[] array) {
         if (array == null || array.length == 0)
             return;
-
-//        for (int i = 0; i < array.length; i++) {
-//            System.out.print(array[i] + " ");
-//        }
-
-//        System.out.println();
-
         int pBegin = 0;
         int pEnd = array.length - 1;
 
@@ -35,30 +28,28 @@ public class RecorderOddEven {
                 array[pEnd] = temp;
             }
         }
-
-//        for (int i = 0; i < array.length; i++) {
-//            System.out.print(array[i] + " ");
-//        }
     }
 
     /**
      * 奇数和奇数的相对顺序不变
      * 偶数和偶数的相对顺序也不变
-     * @param array
+     * 时间复杂度：O(n)
+     * 空间复杂度：O(n)
+     * @param nums
      */
-    public void reOrderArray2(int[] array) {
-        int n = array.length;
-        for (int i = 0; i < n; i++) {
-            if (array[i] % 2 == 0) {
-                int nextOddIdx = i + 1;
-                while (nextOddIdx < n && array[nextOddIdx] % 2 == 0) nextOddIdx++;
-                if (nextOddIdx == n) break;
-                int nextOddVal = array[nextOddIdx];
-                for (int j = nextOddIdx; j > i; j--) {
-                    array[j] = array[j - 1];
-                }
-                array[i] = nextOddVal;
-            }
+    public void reOrderArray2(int[] nums) {
+        // 奇数个数
+        int oddCnt = 0;
+        for (int val : nums)
+            if (val % 2 == 1)
+                oddCnt++;
+        int[] copy = nums.clone();
+        int i = 0, j = oddCnt;
+        for (int num : copy) {
+            if (num % 2 == 1)
+                nums[i++] = num;
+            else
+                nums[j++] = num;
         }
     }
 
