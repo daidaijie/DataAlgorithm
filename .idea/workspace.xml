@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="353a733b-d152-455c-92d9-48a391fb0a73" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter2/ReConstructBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter6/FindNumsAppearOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter8/MovingCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter8/IsContinuous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter8/LastRemaining_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/QiuZhao/Dji/QuestionA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/QiuZhao/Dji/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter3/RecorderOddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter3/RecorderOddEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/weiyeli/JianZhiOffer/chapter3/RecorderOddEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/weiyeli/JianZhiOffer/chapter3/RecorderOddEven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/weiyeli/Nowcoder/Wangyi/Chunzhao/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/weiyeli/Nowcoder/Wangyi/Chunzhao/Main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/weiyeli/JianZhiOffer/chapter6/FindNumsAppearOnce.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/weiyeli/JianZhiOffer/chapter6/FindNumsAppearOnce.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,105 +24,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/Wangyi/Chunzhao/Main2.java">
+      <file leaf-file-name="LeetCode45.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode45.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="575">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/Wangyi/Chunzhao/Main3.java">
+      <file leaf-file-name="QuestionA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/QiuZhao/Dji/QuestionA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="92">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReConstructBinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter2/ReConstructBinaryTree.java">
+      <file leaf-file-name="IsContinuous.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter8/IsContinuous.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="46">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LastRemaining_Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter8/LastRemaining_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/QiuZhao/Dji/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#80#81#0" expanded="true" />
+                <element signature="e#129#130#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RecorderOddEven.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter3/RecorderOddEven.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindNumsAppearOnce.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter6/FindNumsAppearOnce.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="11" selection-start-line="11" selection-end-line="22" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MovingCount.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter8/MovingCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Comparator.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Comparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="proA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/June/proA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#99#100#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/LinkedList/ReverseList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsBalanced.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter6/IsBalanced.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="28" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -132,6 +82,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -154,11 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/WeBank/Main3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/WeBank/Main1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/Tencent/Main4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/Tencent/Main3.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/Wangyi/Chunzhao/Main4.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/Wangyi/Chunzhao/Main5.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/dp/Fields.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/dp/AscentSequence.java" />
@@ -205,6 +151,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter3/RecorderOddEven.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter6/FindNumsAppearOnce.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter8/MovingCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode45.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/QiuZhao/Dji/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/QiuZhao/Dji/QuestionA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter8/IsContinuous.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter8/LastRemaining_Solution.java" />
       </list>
     </option>
   </component>
@@ -226,11 +177,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="818" />
-    <option name="y" value="34" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-12" />
+    <option name="y" value="13" />
     <option name="width" value="1936" />
-    <option name="height" value="1100" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -241,7 +192,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -305,10 +255,32 @@
               <item name="JianZhiOffer" type="462c0819:PsiDirectoryNode" />
               <item name="chapter8" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DataAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weiyeli" type="462c0819:PsiDirectoryNode" />
+              <item name="QiuZhao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="weiyeli" type="462c0819:PsiDirectoryNode" />
+              <item name="QiuZhao" type="462c0819:PsiDirectoryNode" />
+              <item name="Dji" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -342,7 +314,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindNumsAppearOnce">
+  <component name="RunManager" selected="Application.IsContinuous">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -357,13 +329,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="GetUglyNumber_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.weiyeli.JianZhiOffer.chapter5.GetUglyNumber_Solution" />
+    <configuration name="IsContinuous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weiyeli.JianZhiOffer.chapter8.IsContinuous" />
       <module name="DataAlgorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.weiyeli.JianZhiOffer.chapter5.*" />
+          <option name="PATTERN" value="com.weiyeli.JianZhiOffer.chapter8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LeetCode45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weiyeli.Leetcode.DP.LeetCode45" />
+      <module name="DataAlgorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.weiyeli.Leetcode.DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,30 +362,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="NumberOf1Between1AndN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.weiyeli.JianZhiOffer.chapter5.NumberOf1Between1AndN" />
+    <configuration name="QuestionA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.weiyeli.QiuZhao.Dji.QuestionA" />
       <module name="DataAlgorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.weiyeli.JianZhiOffer.chapter5.*" />
+          <option name="PATTERN" value="com.weiyeli.QiuZhao.Dji.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="proA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.weiyeli.Nowcoder.June.proA" />
-      <module name="DataAlgorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.weiyeli.Nowcoder.June.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -456,19 +428,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.proA" />
-      <item itemvalue="Application.NumberOf1Between1AndN" />
-      <item itemvalue="Application.GetUglyNumber_Solution" />
       <item itemvalue="Application.Main3" />
       <item itemvalue="Application.FindNumsAppearOnce" />
+      <item itemvalue="Application.LeetCode45" />
+      <item itemvalue="Application.QuestionA" />
+      <item itemvalue="Application.IsContinuous" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsContinuous" />
+        <item itemvalue="Application.QuestionA" />
+        <item itemvalue="Application.LeetCode45" />
         <item itemvalue="Application.FindNumsAppearOnce" />
         <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.GetUglyNumber_Solution" />
-        <item itemvalue="Application.NumberOf1Between1AndN" />
-        <item itemvalue="Application.proA" />
       </list>
     </recent_temporary>
   </component>
@@ -663,6 +635,12 @@
       <workItem from="1529589614191" duration="348000" />
       <workItem from="1530430289805" duration="4459000" />
       <workItem from="1530753830592" duration="10502000" />
+      <workItem from="1530847226146" duration="43000" />
+      <workItem from="1530924736435" duration="6522000" />
+      <workItem from="1531046950426" duration="1272000" />
+      <workItem from="1531134811470" duration="83000" />
+      <workItem from="1531842029611" duration="20000" />
+      <workItem from="1532250834666" duration="889000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1510728058805</created>
@@ -710,7 +688,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="459650000" />
+    <option name="totallyTimeSpent" value="468479000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -736,13 +714,13 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.28898582" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4914712" weight="0.3297062" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15511727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16471216" />
       <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.31733915" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.28898582" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -759,14 +737,14 @@
       <window_info id="Web" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" order="8" visible="true" weight="0.14673913" />
-      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.48720682" weight="0.3297062" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31338412" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17910448" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4936034" weight="0.3297062" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31338412" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32861805" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -776,7 +754,7 @@
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4914712" weight="0.3297062" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34276387" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.48720682" weight="0.3297062" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50852877" side_tool="true" weight="0.3297062" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
@@ -867,7 +845,7 @@
           <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="99" />
+      <option name="time" value="103" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -875,41 +853,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Algorithm/Sort/InsertioSort/InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1554">
-          <caret line="74" column="15" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Algorithm/Sort/Select/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/DataStructure/Heap/MaxHeap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/DataStructure/Heap/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/HDU/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter2/NumberOf1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1165,78 +1108,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/Wangyi/Chunzhao/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="92">
           <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/LinkedList/ReverseList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="46">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/June/proA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="161">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter6/IsBalanced.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="644">
           <caret line="28" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/Wangyi/Chunzhao/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
+        <state relative-caret-position="1173">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter2/ReConstructBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
+        <state relative-caret-position="338">
           <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter3/RecorderOddEven.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter6/FindNumsAppearOnce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
+        <state relative-caret-position="253">
           <caret line="11" selection-start-line="11" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
@@ -1244,7 +1167,57 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter8/MovingCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="23" />
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Nowcoder/Wangyi/Chunzhao/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/Leetcode/DP/LeetCode45.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/QiuZhao/Dji/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/QiuZhao/Dji/QuestionA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter8/IsContinuous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weiyeli/JianZhiOffer/chapter8/LastRemaining_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
