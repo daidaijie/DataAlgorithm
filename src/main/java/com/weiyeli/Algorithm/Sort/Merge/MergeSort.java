@@ -77,6 +77,4 @@ public class MergeSort {
         SortTestHelper.printArray(arr1);
         SortTestHelper.testSort("com.weiyeli.Algorithm.Sort.Merge.MergeSort", arr1);
     }
-
-
 }
